@@ -39,3 +39,6 @@ class HelloWorldApp {
         System.out.println("Been in CMU for 3 years");
     }
 }
+
+// Interesting, I like how you chose to print it in 2 lines!
+// Also, very nice documentation.
