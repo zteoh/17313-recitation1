@@ -35,6 +35,7 @@
  */
 class HelloWorldApp {
     public static void main(String[] args) {
+        System.out.println("Zoe Teoh");
         System.out.println("Been in CMU for 3 years");
     }
 }
